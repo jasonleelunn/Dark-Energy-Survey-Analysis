@@ -4,11 +4,11 @@ This project aimed to construct an algorithm capable of detecting galaxy cluster
 
 ## Sample Figures
 
-![Simulating 3 Clusters and Mapping their Relative Density](Count_in_Cells_3_Clusters.jpg "Simulating 3 Clusters and Mapping their Relative Density")
+![Simulating 3 Clusters and Mapping their Relative Density](Figures/Count_in_Cells_3_Clusters.jpg "Simulating 3 Clusters and Mapping their Relative Density")
 
 A density map designed to show the relative density of three simulated galaxy clusters. This density comparison underpins the detection method utlised by this project. 
 
 
-![Scatter Plot Showing Relative Positioning of 3 Simulated Galaxy Clusters](Scatter_Plot_3_Clusters.jpg "Scatter Plot Showing Relative Positioning of 3 Simulated Galaxy Clusters")
+![Scatter Plot Showing Relative Positioning of 3 Simulated Galaxy Clusters](Figures/Scatter_Plot_3_Clusters.jpg "Scatter Plot Showing Relative Positioning of 3 Simulated Galaxy Clusters")
 
 A scatter plot showing the grouping and relative positions of three simulated clusters in a sea of galaxy-like objects.
