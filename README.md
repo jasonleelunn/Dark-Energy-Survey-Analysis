@@ -1,6 +1,6 @@
 # Searching for Galaxy Clusters in the Dark Energy Survey
  
-This project aimed to construct an algorithm capable of detecting galaxy clusters within data from the [Dark Energy Survey](https://www.darkenergysurvey.org/). The algorithm is coded in MATLAB and tested with simulated data constructed for this project. After simulated data tests, real data is analysed. The method of detection is relatively simple, only looking at galactic density. No obvious galaxy clusters were detected in the survey data due to limits with the detection method. The project overall is still a success despite the lack of conﬁrmed detection, since the algorithm performed exactly as intended and all other goals were met.
+This project aimed to construct an algorithm capable of detecting galaxy clusters within data from the [Dark Energy Survey](https://www.darkenergysurvey.org/). The algorithm is coded in MATLAB and tested with simulated data constructed for this project. After simulated data tests, real data is analysed. The method of detection is relatively simple, only looking at galactic density. No obvious galaxy clusters were detected in the survey data due to limits with the detection method. The project overall is still a success despite the lack of conﬁrmed detection, since the algorithm performed exactly as intended and all other goals were met. The full report write up can be found [here](Report/Searching_for_Galaxy_Clusters_in_the_Dark_Energy_Survey.pdf).
 
 ## Acknowledgments
 
